@@ -3,6 +3,8 @@
 }
 
 h1 {
+  top: 0px;
+  right: 0px;
 	text-align: center;
 	color: green;
 }
@@ -16,9 +18,13 @@ h1 {
   border: 1px solid black;
 }
 
-h2 {
+h2 {   
    text-align: right;
    color: white;
+   width: 150px;
+   padding-left: 150px;
+   border: 1px solid black;
+   background-color: gray;
 }
 
 
@@ -31,7 +37,7 @@ h2 {
 }
 
 #a3 {
-	background-color: gray;
+	background-color: #00BA87;
 }
 
 @media (min-width: 992px) {
