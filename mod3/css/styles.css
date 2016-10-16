@@ -28,14 +28,16 @@ body {
 }
 
 #nav-list {
-  margin-top: 10px;
+  background-color: #ffdaff;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 #nav-list a {
   color: black;
-  text-align: center;
+  text-align: center; 
 }
 #nav-list a:hover {
-  background: white;
+  background: #ffddaa;
 }
 #nav-list a span {
   font-size: 1.8em;
